@@ -7,4 +7,4 @@ This docker is intended to help someone who made the project on a Linux system t
   1. clone this repositiory in the root of the project being evaluated
   2. bash run.sh
 
-#[cub3D Tutotial](https://github.com/codamMeyer/cub3d/blob/main/README.md)
+[cub3D Tutotial](https://github.com/codamMeyer/cub3d/blob/main/README.md)
